@@ -1,0 +1,2 @@
+test-fe:
+	fe test .
